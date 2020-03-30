@@ -1,6 +1,6 @@
 def Projects
 
-  attr_reader
+  attr_reader :name, :backers
 
   def initialize(name)
     @name = name
