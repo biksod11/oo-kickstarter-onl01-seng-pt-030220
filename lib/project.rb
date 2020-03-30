@@ -1,4 +1,4 @@
-def Projects
+def Project
 
   attr_reader :name, :backers
 
